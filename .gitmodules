@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DesignCTPB"]
 	path = DesignCTPB
 	url = https://github.com/ubcxzhang/designctpb
-	shallow = true
-	registered = true
 [submodule "scAnnotate"]
 	path = scAnnotate
 	url = https://github.com/cran/scAnnotate
-	shallow = true
-	registered = true
