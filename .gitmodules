@@ -5,6 +5,3 @@
 [submodule "DesignCTPB"]
 	path = DesignCTPB
 	url = https://github.com/ubcxzhang/designctpb
-[submodule "scAnnotate"]
-	path = scAnnotate
-	url = https://github.com/cran/scAnnotate
