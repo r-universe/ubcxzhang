@@ -8,6 +8,3 @@
 [submodule "bossR"]
 	path = bossR
 	url = https://github.com/cran/bossR
-[submodule "scAnnotate"]
-	path = scAnnotate
-	url = https://github.com/cran/scAnnotate
