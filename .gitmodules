@@ -8,3 +8,6 @@
 [submodule "bossR"]
 	path = bossR
 	url = https://github.com/cran/bossR
+[submodule "iimi"]
+	path = iimi
+	url = https://github.com/cran/iimi
