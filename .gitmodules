@@ -17,6 +17,3 @@
 [submodule "iimi"]
 	path = iimi
 	url = https://github.com/cran/iimi
-[submodule "scAnnotate"]
-	path = scAnnotate
-	url = https://github.com/cran/scAnnotate
