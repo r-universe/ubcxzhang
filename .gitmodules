@@ -17,3 +17,6 @@
 [submodule "iimi"]
 	path = iimi
 	url = https://github.com/cran/iimi
+[submodule "mvboxcox"]
+	path = mvboxcox
+	url = https://github.com/cran/mvboxcox
