@@ -20,3 +20,6 @@
 [submodule "mvboxcox"]
 	path = mvboxcox
 	url = https://github.com/cran/mvboxcox
+[submodule "summary2joint"]
+	path = summary2joint
+	url = https://github.com/cran/summary2joint
